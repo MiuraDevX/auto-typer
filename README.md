@@ -18,5 +18,5 @@ A Python script that automatically types the text from your clipboard, simulatin
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/auto-typer.git
+   git clone https://github.com/MiuraDevX/auto-typer.git
    cd auto-typer
